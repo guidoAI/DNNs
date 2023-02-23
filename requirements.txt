@@ -1,5 +1,4 @@
 torch
 matplotlib
 numpy
-random
 torchvision
